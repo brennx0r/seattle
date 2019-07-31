@@ -1,45 +1,44 @@
-= Fun Seattle Things
+# Fun Seattle Things
 
-== Amusement
+## Amusement
 
-=== Pinball / Arcade
+### Pinball / Arcade
 - Shorty's 
 - Tukwilla Family Fun Center
 - Add A Ball
 
 
-== Food
-=== Sushi
+## Food
+### Sushi
 - Shiros. Do the bar, Omakase. Just do it. You're welcome.
 
-=== Mexican
+### Mexican
 - Poquitos
 
-=== Carribean
+### Carribean
 - La Isla
 - Mojitos
 - Bongos
 
-=== XLBs
+### XLBs
 - Dough Zone (Sodo or Crossroads locations - other locations not as good)
 
-=== Fancy
+### Fancy
 - Palisade
 - Canlis
 - How to Cook a Wolf
 
-=== Soba
+### Soba
 - Kamonegi 
 
-== Museums
+## Museums
 - SAM
 - MoPop (don't miss the Prince exhibition)
 
-== Parks
+## Parks
 - Discovery Park
 - Greenlake (nice swimming, paddle boarding, kayaking)
 
-== Bike Friendly
+## Bike Friendly
 - Burke-Gilman Trail
-
 - Golden Gardens (this park is likely closed due to Puget Sound spill) 
