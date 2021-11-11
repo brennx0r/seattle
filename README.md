@@ -9,6 +9,27 @@
 
 ### Fun Centers
 - Tukwila Family Fun Center
+- Smash Putt
+
+### Cars / Racing
+- Dirt Fish
+- Skykart Indoor Racing Center
+
+### Misc
+- iFly Indoor Skydiving
+
+## Sports
+- Seahawks
+- Mariners
+- Kraken
+- Storm
+- Sounders
+
+- Ice Skating Rink (Northgate)
+- Momentum Indoor Climbing SODO
+- Circus Contraption Training
+- Parkour Visions 
+
 
 
 ## Food
@@ -17,6 +38,7 @@
 
 ### Mexican
 - Poquitos
+- Carta de Oxaca
 
 ### Tacos
 - El Borracho (Ballard location. Happy hour tacos are the best)
@@ -27,7 +49,8 @@
 - Bongos
 
 ### XLBs
-- Dough Zone (Sodo or Crossroads locations - other locations not as good)
+- Dough Zone (Sodo, Downtown, or Crossroads locations - other locations not as good)
+
 
 ### SOUP
 - 19 Gold (Taiwanese style malatang soup. Rich and SPICY)
@@ -59,7 +82,9 @@
 ## Parks
 - Discovery Park
 - Greenlake (nice swimming, paddle boarding, kayaking)
+- Ravenna Park (lots of trails with streams and quiet spaces)
+- Golden Gardens (beach on Puget sound with grilling, bonfire areas, snacks stands, volleyball, nature reserve trail)
 
 ## Bike Friendly
 - Burke-Gilman Trail
-- Golden Gardens (this park is likely closed due to Puget Sound spill) 
+
