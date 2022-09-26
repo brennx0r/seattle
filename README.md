@@ -62,7 +62,6 @@
 - Palisade
 - Canlis
 - How to Cook a Wolf
-- Opus (try their 5 course with wine pairings!)
 
 ### Soba
 - Kamonegi 
@@ -84,6 +83,7 @@
 - Greenlake (nice swimming, paddle boarding, kayaking)
 - Ravenna Park (lots of trails with streams and quiet spaces)
 - Golden Gardens (beach on Puget sound with grilling, bonfire areas, snacks stands, volleyball, nature reserve trail)
+- Super Secret Gnome Park
 
 ## Bike Friendly
 - Burke-Gilman Trail
