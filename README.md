@@ -77,7 +77,7 @@
 
 ## Museums
 - SAM
-- MoPop (don't miss the Prince exhibition)
+- MoPop
 
 ## Parks
 - Discovery Park
