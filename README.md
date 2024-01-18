@@ -5,7 +5,7 @@
 - Shorty's 
 - Tukwilla Family Fun Center
 - Add A Ball
-- Flip Flip Ding Ding (play BLACK KNIGHT)
+
 
 ### Fun Centers
 - Tukwila Family Fun Center
@@ -44,7 +44,6 @@
 - El Borracho (Ballard location. Happy hour tacos are the best)
 
 ### Carribean
-- La Isla (might be burned down? :( )
 - Mojitos
 - Bongos
 
